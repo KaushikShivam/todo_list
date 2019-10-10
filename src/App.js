@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
 	render() {
 		return (
-			<div class='App'>
+			<div className='App'>
 				<TodoList />
 			</div>
 		);
